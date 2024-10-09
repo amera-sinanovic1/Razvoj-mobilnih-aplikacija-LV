@@ -14,8 +14,9 @@ Redoslijed:
 4. Operatori
 5. Kontrola toka
 6. Kontrola toka 2
-7. KOntrola toka 3
+7. Kontrola toka 3
 8. Petlje
+9. Primjeri 
 
 
 
