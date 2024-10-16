@@ -8,6 +8,9 @@ fun main() {
     //Kao detektiv grada, vaš zadatak je da pronađete ova dva nestašna broja.
 //  Kao reyultat funkcije Vratite niz duzine dva koji sadrži ova dva broja nestasna
 //  (u bilo kom redoslijedu), kako bi mir mogao da se vrati u Cifrograd.
+     // Constraints:
+    // 1 <= nums.length <= 100
+    //1 <= nums[i] < 1000
     //Input: nums = [0,1,1,0]
     //
     //Output: [0,1]
