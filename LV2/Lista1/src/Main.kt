@@ -11,7 +11,4 @@ fun main() {
     val recenica = "Danas je lijep i suncan dan."
     recenica.split() //metoda vraća listu tipa List<String>
 
-    //List<Any> može sadržati elemente različitih tipova
-    List<List<Int>> (ugniježdene liste) omogućava rad sa dvodimenzionalnim kolekcijama
-
 }
