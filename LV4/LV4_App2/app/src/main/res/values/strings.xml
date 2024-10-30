@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LV4_App2</string>
+    <string name="button">SHOW</string>
+    <string name="emptyInput">PLease enter some text!</string>
+</resources>
