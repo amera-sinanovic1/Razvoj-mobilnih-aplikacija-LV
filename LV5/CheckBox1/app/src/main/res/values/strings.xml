@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CheckBox1</string>
+    <string name="text_view_question"> What programing language you like the most? </string>
+    <string name="chechk_box_kotlin"> Kotlin </string>
+    <string name="chechk_box_c"> C </string>
+    <string name="chechk_box_Python"> Python </string>
+    <string name="button"> Show answer </string>
+
+</resources>
