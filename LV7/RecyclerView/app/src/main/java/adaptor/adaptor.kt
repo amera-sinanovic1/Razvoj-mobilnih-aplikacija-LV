@@ -26,7 +26,7 @@ class ExampleAdaptor(val context:Context, val elements: MutableList<ExampleItem>
     override fun onBindViewHolder(holder: ExampleViewHolder, position: Int) {
         val currentItem= elements[position]
         holder.title.text = currentItem.title
-        holder.description.text= currentItem.descriptio
+        holder.description.text= currentItem.description
     }
 
     inner class ExampleViewHolder(view: View) : RecyclerView.ViewHolder(view) {
