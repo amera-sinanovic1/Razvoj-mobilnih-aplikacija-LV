@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DatabaseCRUD</string>
+    <string name="enter_a_message">Enter a message:</string>
+    <string name="save">save</string>
+</resources>
